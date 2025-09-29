@@ -23,6 +23,7 @@
     },
     "web": {
       "output": "static",
+      "display": "standalone",
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
